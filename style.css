@@ -1,0 +1,14 @@
+body{
+    background-color:#2F6943;
+    font-weight: 900;
+}
+
+#flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+h1{
+    margin-bottom: 15px;
+}
